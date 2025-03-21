@@ -9,11 +9,11 @@
   "animateLoading": true,
   "backgroundColor": "transparent",
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 44,
+  "bottomRow": 82,
   "boxShadow": "none",
   "children": [
     {
-      "bottomRow": 440,
+      "bottomRow": 820,
       "canExtend": false,
       "containerStyle": "none",
       "detachFromLayout": true,
@@ -108,7 +108,7 @@
   "mobileRightColumn": 31,
   "mobileTopRow": 4,
   "onItemClick": "{{app.updateTodo(currentIndex, {completed: !currentItem.completed})}}",
-  "pageSize": 7,
+  "pageSize": 13,
   "parentColumnSpace": 2.09661865234375,
   "parentId": "7ehlstw718",
   "parentRowSpace": 10,

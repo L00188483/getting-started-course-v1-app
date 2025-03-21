@@ -5,11 +5,11 @@
   "borderColor": "transparent",
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
   "borderWidth": 1,
-  "bottomRow": 55,
+  "bottomRow": 93,
   "boxShadow": "none",
   "children": [
     {
-      "bottomRow": 460,
+      "bottomRow": 840,
       "canExtend": true,
       "detachFromLayout": true,
       "displayName": "Canvas",
@@ -45,7 +45,7 @@
       "widgetName": "Canvas2"
     },
     {
-      "bottomRow": 460,
+      "bottomRow": 840,
       "canExtend": true,
       "detachFromLayout": true,
       "displayName": "Canvas",

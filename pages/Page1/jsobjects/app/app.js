@@ -14,6 +14,7 @@ export default {
 		storeValue('todos', data.todos);
 	},
 	editTodo (id, title) {
+		// edit tasks
 		data.activeTodo = undefined;
 		this.updateTodo(id, {title});
 	},
